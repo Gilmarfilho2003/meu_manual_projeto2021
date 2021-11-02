@@ -1,0 +1,113 @@
+/start 
+
+Bot.SendMassage("Seja bem vindos aqui,sou o bot, do google aqui no telegram")
+
+%reflink%
+
+compartilhe o seu link de referencia  %reflink% para que mais pessoas pessoas pode ter acesso?
+
+agora clique aqui em comandos
+
+🛍E
+
+
+🚀 Link De referência🚀
+
+
+Esse é seu link de %reflink% compartilhe para seus amigos e grupo de whats,face & Etc
+Se Você Tenha Gostado,voltem sempre! 
+
+
+#meu primeiro projeto em python 
+
+print ('''
+
+.#####...#####....####...######..######..######...####..
+.##..##..##..##..##..##......##..##........##....##..##.
+.#####...#####...##..##......##..####......##....##..##.
+.##......##..##..##..##..##..##..##........##....##..##.
+.##......##..##...####....####...######....##.....####..
+........................................................
+
+''')
+
+n1 = int(input('escolhe a opção: '))
+opção = 0
+print ('''[ 1 ] Autulizar apt % upgrade
+[ 2 ] python
+[ 3 ] pip
+[ 4 ] novos números
+[ 5 ] sair do programa
+
+opção = str(input('escolhe uma das opção ? '))
+
+---------------------------------------------------------------------------
+
+#meu primeiro projeto em python 
+
+print ('''
+
+.#####...#####....####...######..######..######...####..
+.##..##..##..##..##..##......##..##........##....##..##.
+.#####...#####...##..##......##..####......##....##..##.
+.##......##..##..##..##..##..##..##........##....##..##.
+.##......##..##...####....####...######....##.....####..
+........................................................
+
+''')
+
+n1 = int(input('escolhe a opção: '))
+opção = 0
+print ('''[ 1 ] Autulizar apt % upgrade
+[ 2 ] python
+[ 3 ] pip
+[ 4 ] novos números
+[ 5 ] sair do programa
+
+opção = str(input('escolhe uma das opção ? '))
+---------------------------------------------
+a = input('Digite algo: ')
+print("o tipo é ", type(a))
+-------------------------------------
+a = input('Digite Alguma Palavra: ')
+print("Esse é o resultado ", tuple(a))
+input()
+-------------------------------------------------
+
+
+n = 1
+while n != 0:
+       n = int(input( 'Digite algo" "))
+print ("parece que você chegou ao fim') 
+-----------------------------------------------------------
+print (''' \033[1;34m	
+
+Estrutura de repetição while
+
+
+''')
+
+print('''
+\033[1;32m
+	
+
+           __     __  __
+.--.--.--.|  |--.|__||  |.-----.\033[1;32m		
+|  |  |  ||     ||  ||  ||  -__\033[1;32m
+|________||__|__||__||__||_____|\033[1;32m
+\033[1;32m
+
+
+''')
+
+
+
+n = 1
+while n != 0:
+       n = int(input( 'ESCREVE UM NUMERO:' ))----------------------
+
+
+    Por Favor escolhe uma opção ?
+        1 - atualizar repositorio
+        2 - instalar pip
+        3 - instalar python
